@@ -7,7 +7,7 @@
 
 ## Project Description:
 
-This dashboard analyzes the performance of 30 grade 5 students on recent math tests. It includes key metrics such as final grades, past failures, attendance, study time, and health. Users can sort and filter students by academic and multiplke lifestyle factors to identify patterns in performance.
+This dashboard analyzes the performance of 30 grade 5 students on recent math tests. It includes key metrics such as final grades, past failures, attendance, study time, and health. Users can sort and filter students by academic and multiple lifestyle factors to identify patterns in performance.
 
 
 
